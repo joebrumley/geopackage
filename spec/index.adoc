@@ -35,7 +35,7 @@ This document is an OGC Member approved international standard. This document is
 
 [WARNING]
 ====
-Note that the normative text for this standard is located on the OGC website: https://portal.opengeospatial.org/files/12-128r14. If there are any differences from this HTML document and the normative document, the normative document takes precedence.
+Note that the normative text for this standard is located on the OGC website: https://portal.opengeospatial.org/files/12-128r12. If there are any differences from this HTML document and the normative document, the normative document takes precedence.
 ====
 
 Document type:   	OGC® Standard +
